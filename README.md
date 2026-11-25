@@ -103,9 +103,9 @@ Em quantidade, o Sudeste lidera em todas as faixas etárias. Em proporção, o p
   
 *No total do Brasil, representam 35,5%.*
 
-## Perfil de Idade por Território
+# Perfil de Idade por Território
 ---
-# Percentual das mulheres de cada território em cada faixa etária:
+## Percentual das mulheres de cada território em cada faixa etária:
 
 **Urbano:** 
 
