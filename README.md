@@ -255,6 +255,13 @@ Este é o início de uma jornada de aprendizado, desenvolvimento e construção 
 
 Obrigada por visitar meu projeto!
 
+# 🔎Referências | Fonte dos Dados:
+
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Censo Demográfico 2022: mulheres: Tabela 17 - Idade e características do território. Rio de Janeiro: IBGE, 2024. Disponível em: https://www.ibge.gov.br/estatisticas/sociais/trabalho/22827-censo-demografico-2022.html?=&t=downloads. Acesso em 10/11/2026.
+
+IBGE. Censo Demográfico 2022: população residente, por sexo, idade e forma de declaração da idade. Rio de Janeiro: IBGE, 2022. Tabela 9514. Disponível em: https://sidra.ibge.gov.br/tabela/9514. Acesso em: 17/11/2026.
+
+
 # 🔗Imagens, Tabelas e Outros:
 
 <img width="1166" height="660" alt="image" src="https://github.com/user-attachments/assets/e283a9c1-c3ab-4135-9150-754d7712ea1e" />
