@@ -5,15 +5,15 @@
 
 Este projeto representa meu primeiro passo na área de Ciência de Dados e foi uma oportunidade de colocar em prática conhecimentos de tratamento de dados, análise exploratória, criação de medidas em DAX e visualização no Power BI.
 
-Projeto Be: Análise Potencial de Público Feminino
+# Projeto Be: Análise Potencial de Público Feminino
 
-Dashboard em Power BI com dados do Censo 2022 (IBGE), desenvolvido como primeiro projeto do curso de Ciência de Dados (Univesp).
+📊 Dashboard em Power BI com dados do Censo 2022 (IBGE), desenvolvido como primeiro projeto do curso de Ciência de Dados (Univesp).📊
 
-Contexto
+## Contexto:
 
-Case hipotético: uma empresa de cosméticos quer investir em território nacional e precisa saber quais regiões e estados têm maior distribuição do sexo feminino e, depois, quais são as idades dessas possíveis clientes.
+Case hipotético: Uma empresa de cosméticos quer investir em território nacional e precisa saber quais regiões e estados têm maior distribuição do sexo feminino e, qual a faixa etária delas.
 
-Perguntas de negócio
+## ❓ Perguntas de negócio:
 
 Em quais regiões e estados há mais mulheres?
 
@@ -23,36 +23,68 @@ Qual é o perfil de idade das mulheres em cada território (urbano, rural, favel
 
 Há públicos de nicho, como quilombolas e indígenas, com potencial?
 
-Fontes dos dados
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Censo Demográfico 2022: mulheres: Tabela 17 - Idade e características do território. Rio de Janeiro: IBGE, 2024. Disponível em: https://www.ibge.gov.br/estatisticas/sociais/trabalho/22827-censo-demografico-2022.html?=&t=downloads. Acesso em 10/11/2026.
-IBGE. Censo Demográfico 2022: população residente, por sexo, idade e forma de declaração da idade. Rio de Janeiro: IBGE, 2022. Tabela 9514. Disponível em: https://sidra.ibge.gov.br/tabela/9514. Acesso em: 17/11/2026.
-
-Dados utilizados
+## 📊Dados utilizados 
 
 Tabela 9514 (SIDRA): quantidade de mulheres por município e faixa etária. Usada para saber onde estão as mulheres.
 Tabela 17 (Censo 2022): percentual de mulheres em cada faixa etária, por território. Usada para o perfil de idade em cada território, com os valores já calculados pelo IBGE para o Brasil e para as regiões.
 
-Faixas etárias: 19 a 39, 40 a 59, 60 a 79 e 80+
-Territórios: Rural, Urbano, Favelas e Comunidades, Terras Indígenas e Território Quilombola
-Abrangência (Tabela 9514): 27 estados e 5.570 municípios
-Total analisado: 79.229.798 mulheres de 19 anos ou mais (79,2 milhões)
-Tratamento dos dados
-Separei as siglas dos Estados dos Municípios.
-Removi as faixas de 0 a 18 anos, pois o público analisado tem 19 anos ou mais.
-Criei a coluna com o nome dos estados por extenso e a coluna das regiões, duplicando a de siglas e substituindo os valores.
-Criei medidas em DAX (SUM) para obter o total de mulheres e as medidas percentuais de cada idade na tabela Mulheres.
-Utilizei duas tabelas para a criação do projeto: uma com o valor bruto (quantidade de mulheres) e outra com os percentuais por território e idade.
-Ao conferir a Tabela 17, identifiquei que ela traz percentuais, e não quantidades. Por isso não somei esses valores e usei a Tabela 9514 para as quantidades.
-Conferi os totais por estado e por região somando os municípios da Tabela 9514.
-Principais resultados
+## Faixa Etária: 
+19 a 39 | 40 a 59 | 60 a 79 | 80+
 
-Estados com maior número de mulheres
 
-1º SP (18,0 milhões), 2º MG (8,2 milhões), 3º RJ (6,7 milhões), 4º BA (5,5 milhões) e 5º PR (4,5 milhões). Juntos, somam 42,9 milhões, cerca de 54% do total. São Paulo sozinho concentra 22,7%.
+## 🌍Territórios: 
+- Rural  | Urbano  | Favelas e Comunidades
+- Terras Indígenas | Território Quilombola
+------------------------------------------
 
-Faixa etária (percentual do total)
+## Abrangência (Tabela 9514):
+- 27 Estados
+- 5.570 Municípios
 
-19 a 39 anos: 41,9% | 40 a 59 anos: 35,5% | 60 a 79 anos: 19,0% | 80+: 3,6%
+Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais
+
+## 👩‍💻Tratamento dos dados:
+
+- Separei as siglas dos Estados dos Municípios.
+- Removi as faixas de 0 a 18 anos, pois o público analisado tem 19 anos ou mais.
+- Criei a coluna com o nome dos estados por extenso e a coluna das regiões, duplicando a de siglas e substituindo os valores;
+- Criei medidas em DAX (SUM) para obter o total de mulheres e as medidas percentuais de cada idade na tabela renomeada Mulheres;
+- Utilizei duas tabelas para a criação do projeto: uma com o valor bruto (quantidade de mulheres) e outra com os percentuais por território e idade;
+- Ao conferir a Tabela 17, identifiquei que ela traz percentuais, e não quantidades;
+- Baixei a Tabela 9514 que trás a quantidade;
+- Somei os totais de cada faixa etária;
+- Conferi os totais dos estados;
+- Separei a sigla do estado no Power BI.
+
+# 📚 Principais resultados:
+
+| Estados com maior número de mulheres |
+
+| --- | --- |
+
+| 1º SP | 18,0 milhões|
+
+| 2º MG | 8,2 milhões |
+
+| 3º RJ | 6,7 milhões |
+
+| 4º BA | 5,5 milhões |
+
+| 5º PR | 4,5 milhões |
+
+|**Total: 42,9 milhões**|
+ 
+**Representa 54% do total de mulheres, São Paulo concentra 22,7%**.
+
+# Faixa etária (Percentual do Total)
+
+|19 a 39 anos: 41,9% |
+
+|40 a 59 anos: 35,5% |
+
+|60 a 79 anos: 19,0% |
+
+|80+: 3,6% |
 
 Total por regiões
 
