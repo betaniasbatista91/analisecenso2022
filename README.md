@@ -68,14 +68,14 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais.
  
 **Representa 54% do total de mulheres, São Paulo concentra 22,7%.**
 
-#👩 Faixa etária (Percentual do Total)
+# 👩Faixa Etária (Percentual do Total)
 
 - 19 a 39 anos | 41,9% 
 - 40 a 59 anos | 35,5%
 - 60 a 79 anos | 19,0%
 - 80+          | 3,6%
 
-**Total por regiões**
+# Quantidade e Percentual por Regiões**
 
 - Sudeste: 34,3 milhões (43,3%)
 - Nordeste: 20,9 milhões (26,4%)
@@ -93,7 +93,7 @@ Em quantidade, o Sudeste lidera em todas as faixas etárias. Em proporção, o p
 - Centro-Oeste (44,8%) e;
 - Nordeste (43,9%).
 
-**No total do Brasil, representam 41,9%.**
+*No total do Brasil, representam 41,9%.*
 
 **Mulheres de 40 a 59 anos têm maior proporção:**
 
@@ -101,21 +101,53 @@ Em quantidade, o Sudeste lidera em todas as faixas etárias. Em proporção, o p
 - Sudeste (35,9%) e;
 - Sul (35,3%).
   
-**No total do Brasil, representam 35,5%.**
+*No total do Brasil, representam 35,5%.*
 
-## Perfil de idade por território (Brasil)
-
+## Perfil de Idade por Território
+---
 # Percentual das mulheres de cada território em cada faixa etária:
 
-Urbano: 19 a 39 anos 32,1% | 40 a 59 anos 27,1% | 60 a 79 anos 14,5% | 80+ 2,8%
-Rural: 19 a 39 anos 29,5% | 40 a 59 anos 25,3% | 60 a 79 anos 14,0% | 80+ 2,6%
-Favelas e Comunidades: 19 a 39 anos 34,4% | 40 a 59 anos 25,7% | 60 a 79 anos 10,1% | 80+ 1,4%
-Quilombola: 19 a 39 anos 31,9% | 40 a 59 anos 21,6% | 60 a 79 anos 10,1% | 80+ 2,1%
-Indígena: 19 a 39 anos 31,2% | 40 a 59 anos 13,9% | 60 a 79 anos 5,3% | 80+ 1,3%
+**Urbano:** 
 
-Em todos os territórios, a faixa de 19 a 39 anos é a maior entre as mulheres adultas, e Favelas e Comunidades têm o perfil mais jovem (34,4%). Somando 19 a 59 anos, Favelas e Comunidades (60,1%) e Urbano (59,2%) têm as maiores proporções, e o território indígena a menor (45,1%). Esses percentuais consideram todas as mulheres do território, inclusive as de 0 a 18 anos, que não aparecem no dashboard. Por isso, as quatro faixas não somam 100%.
+- 19 a 39 anos | 32,1%
+- 40 a 59 anos | 27,1%
+- 60 a 79 anos | 14,5%
+- 80+ | 2,8%
 
-Perfil por região, nas áreas urbana, rural e favelas e comunidades
+**Rural:**
+
+- 19 a 39 anos | 29,5%
+- 40 a 59 anos | 25,3%
+- 60 a 79 anos | 14,0% 
+- 80+ | 2,6%
+
+**Favelas e Comunidades:**
+- 19 a 39 anos | 34,4%
+- 40 a 59 anos | 25,7%
+- 60 a 79 anos | 10,1%
+- 80+ | 1,4%
+
+**Território Quilombola:**
+- 19 a 39 anos | 31,9%
+- 40 a 59 anos | 21,6%
+- 60 a 79 anos | 10,1%
+- 80+ | 2,1%
+
+**Terras Indígenas:** 
+- 19 a 39 anos | 31,2%
+- 40 a 59 anos | 13,9%
+- 60 a 79 anos | 5,3%
+- 80+ | 1,3%
+
+**Observações explicativas:**
+
+Em todos os territórios, a faixa de 19 a 39 anos é a maior entre as mulheres adultas, e Favelas e Comunidades têm o perfil mais jovem (34,4%). 
+
+Somando 19 a 59 anos, Favelas e Comunidades (60,1%) e Urbano (59,2%) têm as maiores proporções, e o território indígena a menor (45,1%). 
+
+Esses percentuais consideram todas as mulheres do território, inclusive as de 0 a 18 anos, que não aparecem no dashboard. Por isso, as quatro faixas não somam 100%.
+
+## Perfil por região, nas áreas urbana, rural e favelas e comunidades
 
 Na área urbana, mulheres de 19 a 39 anos representam 35,5% no Norte, 33,7% no Centro-Oeste, 32,9% no Nordeste, 31,6% no Sul e 30,9% no Sudeste.
 Na área urbana, mulheres de 40 a 59 anos representam 28,0% no Sudeste, 27,2% no Sul, 26,9% no Centro-Oeste, 26,4% no Nordeste e 23,5% no Norte.
@@ -123,7 +155,7 @@ Na área rural, mulheres de 19 a 39 anos representam 31,4% no Norte, 30,7% no No
 Na área rural, mulheres de 40 a 59 anos representam 28,5% no Sudeste e no Sul, 28,2% no Centro-Oeste, 24,3% no Nordeste e 20,4% no Norte. Sul e Sudeste também têm mais mulheres de 60 a 79 anos no rural (19,0% e 16,8%).
 Nas Favelas e Comunidades, mulheres de 19 a 39 anos representam 35,6% no Norte, 35,3% no Centro-Oeste e 34,5% no Sudeste. As de 40 a 59 anos representam 27,2% no Nordeste, 25,8% no Sudeste e 24,9% no Centro-Oeste.
 
-Territórios indígena e quilombola por região
+# Territórios indígena e quilombola
 
 19 a 39 anos: as indígenas têm maior percentual no Sul (36,3%) e no Sudeste (34,6%). As quilombolas, no Norte (33,1%) e no Nordeste (32,0%).
 40 a 59 anos: as indígenas se destacam no Nordeste (18,2%), Sul (15,8%) e Sudeste (14,8%). As quilombolas, no Sul (26,9%), Sudeste (24,5%) e Centro-Oeste (23,2%).
