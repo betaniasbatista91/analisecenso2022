@@ -68,14 +68,14 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais.
  
 **Representa 54% do total de mulheres, São Paulo concentra 22,7%.**
 
-# 👩Faixa Etária (Percentual do Total)
+## 👩Faixa Etária (Percentual do Total)
 
 - 19 a 39 anos | 41,9% 
 - 40 a 59 anos | 35,5%
 - 60 a 79 anos | 19,0%
 - 80+          | 3,6%
 
-# Quantidade e Percentual por Regiões**
+## Quantidade e Percentual por Regiões**
 
 - Sudeste: 34,3 milhões (43,3%)
 - Nordeste: 20,9 milhões (26,4%)
@@ -147,47 +147,97 @@ Somando 19 a 59 anos, Favelas e Comunidades (60,1%) e Urbano (59,2%) têm as mai
 
 Esses percentuais consideram todas as mulheres do território, inclusive as de 0 a 18 anos, que não aparecem no dashboard. Por isso, as quatro faixas não somam 100%.
 
-## Perfil por região, nas áreas urbana, rural e favelas e comunidades
+# Perfil das Mulheres entre 19 a 59 anos por região, nas áreas: Urbana, Rural e Favelas e Comunidades Urbanas
 
-Na área urbana, mulheres de 19 a 39 anos representam 35,5% no Norte, 33,7% no Centro-Oeste, 32,9% no Nordeste, 31,6% no Sul e 30,9% no Sudeste.
-Na área urbana, mulheres de 40 a 59 anos representam 28,0% no Sudeste, 27,2% no Sul, 26,9% no Centro-Oeste, 26,4% no Nordeste e 23,5% no Norte.
-Na área rural, mulheres de 19 a 39 anos representam 31,4% no Norte, 30,7% no Nordeste, 27,9% no Centro-Oeste, 27,6% no Sudeste e 26,3% no Sul.
-Na área rural, mulheres de 40 a 59 anos representam 28,5% no Sudeste e no Sul, 28,2% no Centro-Oeste, 24,3% no Nordeste e 20,4% no Norte. Sul e Sudeste também têm mais mulheres de 60 a 79 anos no rural (19,0% e 16,8%).
-Nas Favelas e Comunidades, mulheres de 19 a 39 anos representam 35,6% no Norte, 35,3% no Centro-Oeste e 34,5% no Sudeste. As de 40 a 59 anos representam 27,2% no Nordeste, 25,8% no Sudeste e 24,9% no Centro-Oeste.
+## 🏙️Área Urbana
 
-# Territórios indígena e quilombola
+**Faixa Etária 19 a 39 anos**
+
+- 35,5% no Norte;
+- 33,7% no Centro-Oeste;
+- 32,9% no Nordeste;
+- 31,6% no Sul e;
+- 30,9% no Sudeste.
+
+**Faixa Etária 40 a 59 anos**
+
+- 28,0% no Sudeste;
+- 27,2% no Sul;
+- 26,9% no Centro-Oeste;
+- 26,4% no Nordeste e;
+- 23,5% no Norte.
+
+## ⛰️Área Rural
+
+**Faixa Etária 19 a 39 anos**
+
+- 31,4% no Norte;
+- 30,7% no Nordeste;
+- 27,9% no Centro-Oeste;
+- 27,6% no Sudeste e;
+- 26,3% no Sul.
+
+**Faixa Etária 40 a 59 anos**
+
+- 28,5% no Sudeste e no Sul;
+- 28,2% no Centro-Oeste;
+- 24,3% no Nordeste e;
+- 20,4% no Norte.
+
+*Observação do território: Sul e Sudeste apresentam também mais mulheres de 60 a 79 anos em comparação com os demais territórios (19,0% e 16,8%).*
+
+## 🏘️Favelas e Comunidades Urbanas
+
+**Faixa Etária 19 a 39 anos**
+
+- 35,6% no Norte,
+- 35,3% no Centro-Oeste e
+- 34,5% no Sudeste.
+
+**Faixa Etária 40 a 59 anos**
+
+- 27,2% no Nordeste,
+- 25,8% no Sudeste e;
+- 24,9% no Centro-Oeste.
+
+## 🌄Territórios Indígena e Quilombola
 
 19 a 39 anos: as indígenas têm maior percentual no Sul (36,3%) e no Sudeste (34,6%). As quilombolas, no Norte (33,1%) e no Nordeste (32,0%).
 40 a 59 anos: as indígenas se destacam no Nordeste (18,2%), Sul (15,8%) e Sudeste (14,8%). As quilombolas, no Sul (26,9%), Sudeste (24,5%) e Centro-Oeste (23,2%).
 
-Conclusão
-O Sudeste, o Nordeste e o Sul concentram 84,7% das mulheres de 19 anos ou mais.
-As mulheres de 19 a 59 anos somam 77,4% do público analisado.
-O público mais jovem, em proporção, está no Norte, Centro-Oeste e Nordeste. O perfil de idade também varia entre os territórios, o que indica a necessidade de ações segmentadas.
-Recomendações (case hipotético)
-Concentrar investimentos iniciais nos cinco estados com mais mulheres (42,9 milhões, cerca de 54% do total).
-Desenvolver campanhas específicas para mulheres de 19 a 59 anos (77,4% do público).
-Testar campanhas segmentadas por território: Urbano e Favelas e Comunidades têm mais mulheres de 19 a 59 anos em proporção (59,2% e 60,1%).
-Coletar dados de consumo para criar um banco de dados de perfilamento.
+# 💡Conclusão
 
-Limitações e próximos passos
+- O Sudeste, o Nordeste e o Sul concentram 84,7% das mulheres de 19 anos ou mais.
+- As mulheres de 19 a 59 anos somam 77,4% do público analisado.
+- O público mais jovem, em proporção, está no Norte, Centro-Oeste e Nordeste. O perfil de idade também varia entre os territórios, o que indica a necessidade de ações segmentadas.
+  
+## Recomendações (case hipotético)
+
+- Concentrar investimentos iniciais nos cinco estados com mais mulheres (42,9 milhões, cerca de 54% do total).
+- Desenvolver campanhas específicas para mulheres de 19 a 59 anos (77,4% do público).
+- Testar campanhas segmentadas por território: Urbano e Favelas e Comunidades têm mais mulheres de 19 a 59 anos em proporção (59,2% e 60,1%).
+- Coletar dados de consumo para criar um banco de dados de perfilamento.
+
+## Limitações e próximos passos
 
 Os dados mostram a quantidade de mulheres e o perfil de idade, mas não trazem renda nem consumo. Por isso, a conclusão é exploratória e não permite afirmar se essas mulheres consomem cosméticos. Além disso, a quantidade de mulheres (Tabela 9514) e os percentuais por território (Tabela 17) vêm de tabelas diferentes, e a quantidade por território não foi analisada.
 
 Próximos passos: cruzar com dados de renda e de consumo, e buscar a quantidade de mulheres por território.
 
-# Ferramentas
+## 🖥️Ferramentas
 
 - Power BI Desktop 
 - Excel
 - DBeaver
 
-# Informações Autora:
+## Informações Autora:
 
-Betania Batista, estudante de Ciência de Dados (Univesp) 
+Betania Batista,
+Estudante de Ciência de Dados
+UNIVESP (Universidade Virtual do Estado de São Paulo)
 🔗 LinkedIn: <https://www.linkedin.com/in/betaniasb/>
 
-# Nota final
+## Nota final
 
 Mais do que apresentar números, o objetivo foi transformar dados públicos em informações que possam apoiar a tomada de decisões.
 
@@ -197,6 +247,7 @@ Este é o início de uma jornada de aprendizado, desenvolvimento e construção 
 
 Obrigada por visitar meu projeto!
 
+##🔗 Imagens, Tabelas e Outros:
 
 <img width="1166" height="660" alt="image" src="https://github.com/user-attachments/assets/e283a9c1-c3ab-4135-9150-754d7712ea1e" />
 <img width="6150" height="3525" alt="Projeto1 (2)" src="https://github.com/user-attachments/assets/be332ed7-6774-449a-bc0d-4bbc5b24f483" />
