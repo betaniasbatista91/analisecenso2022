@@ -58,19 +58,13 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais
 
 # 📚 Principais resultados:
 
-| Estados com maior número de mulheres |
+**Estados com maior número de mulheres:**
 
-| --- | --- |
-
-| 1º SP | 18,0 milhões|
-
-| 2º MG | 8,2 milhões |
-
-| 3º RJ | 6,7 milhões |
-
-| 4º BA | 5,5 milhões |
-
-| 5º PR | 4,5 milhões |
+1º SP | 18,0 milhões
+2º MG | 8,2 milhões
+3º RJ | 6,7 milhões
+4º BA | 5,5 milhões
+5º PR | 4,5 milhões
 
 |**Total: 42,9 milhões**|
  
