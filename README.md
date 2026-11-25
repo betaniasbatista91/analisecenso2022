@@ -1,8 +1,6 @@
 
 <img width="1155" height="629" alt="image" src="https://github.com/user-attachments/assets/bb5deb89-6f59-451a-a792-e8c47e058a83" />
 
-Este projeto representa meu primeiro passo na área de Ciência de Dados e foi uma oportunidade de colocar em prática conhecimentos de tratamento de dados, análise exploratória, criação de medidas em DAX e visualização no Power BI.
-
 # 💡Projeto Be: Análise Potencial de Público Feminino
 
 📊 Dashboard em Power BI com dados do Censo 2022 (IBGE), desenvolvido como primeiro projeto do curso de Ciência de Dados (Univesp).📊
@@ -13,17 +11,18 @@ Case hipotético: Uma empresa de cosméticos quer investir em território nacion
 
 ## ❓ Perguntas de negócio:
 
-Em quais regiões e estados há mais mulheres?
+- Em quais regiões e estados há mais mulheres?
 
-Qual faixa etária concentra mais mulheres?
+- Qual faixa etária concentra mais mulheres?
 
-Qual é o perfil de idade das mulheres em cada território (urbano, rural, favelas e comunidades, indígena e quilombola)?
+- Qual é o perfil de idade das mulheres em cada território (urbano, rural, favelas e comunidades, indígena e quilombola)?
 
-Há públicos de nicho, como quilombolas e indígenas, com potencial?
+- Há públicos de nicho, como quilombolas e indígenas, com potencial?
 
 ## 📊Dados utilizados 
 
 Tabela 9514 (SIDRA): quantidade de mulheres por município e faixa etária. Usada para saber onde estão as mulheres.
+
 Tabela 17 (Censo 2022): percentual de mulheres em cada faixa etária, por território. Usada para o perfil de idade em cada território, com os valores já calculados pelo IBGE para o Brasil e para as regiões.
 
 ## Faixa Etária: 
@@ -49,10 +48,11 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais.
 - Criei medidas em DAX (SUM) para obter o total de mulheres e as medidas percentuais de cada idade na tabela renomeada Mulheres;
 - Utilizei duas tabelas para a criação do projeto: uma com o valor bruto (quantidade de mulheres) e outra com os percentuais por território e idade;
 - Ao conferir a Tabela 17, identifiquei que ela traz percentuais, e não quantidades;
-- Baixei a Tabela 9514 que trás a quantidade;
+- Baixei a Tabela 9514 que traz a quantidade;
 - Somei os totais de cada faixa etária;
 - Conferi os totais dos estados;
 - Separei a sigla do estado no Power BI.
+- Refiz as análises em SQL (DBeaver, com banco SQLite). Ao conferir os resultados por estado, percebi que municípios com o mesmo nome em estados diferentes (como Água Branca, em AL e PI) estavam com os números trocados. Corrigi a tabela a partir do nome original, que traz a UF, e passei a conferir os totais com os do dashboard.
 
 # 📚 Resultados:
 
@@ -184,7 +184,7 @@ Esses percentuais consideram todas as mulheres do território, inclusive as de 0
 - 24,3% no Nordeste e;
 - 20,4% no Norte.
 
-*Observação do território: Sul e Sudeste apresentam também mais mulheres de 60 a 79 anos em comparação com os demais territórios (19,0% e 16,8%).*
+*Observação: na área rural, Sul e Sudeste têm mais mulheres de 60 a 79 anos do que as demais regiões (19,0% e 16,8%).*
 
 ## 🏘️Favelas e Comunidades Urbanas
 
@@ -229,11 +229,23 @@ Os dados mostram a quantidade de mulheres e o perfil de idade, mas não trazem r
 
 Próximos passos: cruzar com dados de renda e de consumo, e buscar a quantidade de mulheres por território.
 
+## 🗄️Versão em SQL
+
+As mesmas perguntas de negócio também foram respondidas em SQL, com o DBeaver e um banco SQLite.
+
+📄 Script com as perguntas P1 a P8: <>
+🗂️ Dados usados: dados/mulheres.csv (Tabela 9514) e dados/perfil_territorio.csv (Tabela 17, Brasil)
+🎥 Vídeo executando as consultas: video/video_sql_projeto.mp4
+
+Como reproduzir: crie um banco SQLite no DBeaver, importe os dois CSVs (delimitador ;, UTF-8) nas tabelas mulheres e Tabela e execute o script.
+
+Os resultados em SQL conferem com os do dashboard (por exemplo: 79.229.798 mulheres de 19 anos ou mais e SP com 22,7%).
+
 ## 🖥️Ferramentas
 
 - Power BI Desktop 
 - Excel
-- DBeaver
+- DBeaver (SQL com SQLite)
 
 ## Informações Autora:
 
@@ -246,6 +258,8 @@ UNIVESP (Universidade Virtual do Estado de São Paulo)
 🔗 LinkedIn: <https://www.linkedin.com/in/betaniasb/>
 
 ## Nota final
+
+Este projeto representa meu primeiro passo na área de Ciência de Dados e foi uma oportunidade de colocar em prática conhecimentos de tratamento de dados, análise exploratória, criação de medidas em DAX e visualização no Power BI.
 
 Mais do que apresentar números, o objetivo foi transformar dados públicos em informações que possam apoiar a tomada de decisões.
 
@@ -266,8 +280,6 @@ IBGE. Censo Demográfico 2022: população residente, por sexo, idade e forma de
 
 <img width="1166" height="660" alt="image" src="https://github.com/user-attachments/assets/e283a9c1-c3ab-4135-9150-754d7712ea1e" />
 
-<img width="6150" height="3525" alt="Projeto1 (2)" src="https://github.com/user-attachments/assets/be332ed7-6774-449a-bc0d-4bbc5b24f483" />
-
 <img width="1164" height="656" alt="image" src="https://github.com/user-attachments/assets/e45bf4bb-7a25-49a4-8054-fd765cf3fadf" />
 
 <img width="12150" height="6900" alt="Projeto1 (4)" src="https://github.com/user-attachments/assets/b3c6414d-b8fd-4ad8-a6bf-94c090919010" />
@@ -280,18 +292,20 @@ IBGE. Censo Demográfico 2022: população residente, por sexo, idade e forma de
 
 <img width="6150" height="3525" alt="Projeto1 (8)" src="https://github.com/user-attachments/assets/9b479742-45b1-42a8-a032-00a02741a6a9" />
 
-<img width="6150" height="3525" alt="Projeto1 (9)" src="https://github.com/user-attachments/assets/7f937a71-536e-4cb0-98e4-7f21d7f986d5" />
-
 <img width="1163" height="658" alt="image" src="https://github.com/user-attachments/assets/668f47a2-42ed-41c7-8322-8543b504a91f" />
 
 [Tabela_17_Idade_e_caracteristicas_do_territorio.xlsx](https://github.com/user-attachments/files/35058825/Tabela_17_Idade_e_caracteristicas_do_territorio.xlsx)
 [Tabela_9514_BE.xlsx](https://github.com/user-attachments/files/35058837/Tabela_9514_BE.xlsx)
 
-## Vídeo do Projeto
+## 📹Vídeo do Projeto
 [Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062010/Video.projeto.Power.Bi.zip)
 
-## Arquivo Power BI
-[Projeto_Be_Análise_de_Mulheres.zip](https://github.com/user-attachments/files/35060034/Projeto_Be_Analise_de_Mulheres.zip)
+## 🗂️Pasta com Arquivos do SQL e Power BI:
+[Projeto_Be_Análise_de_Mulheres.zip](https://github.com/user-attachments/files/35431967/Projeto_Be_Analise_de_Mulheres.zip)
+
+
+
+
 
 
 
