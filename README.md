@@ -1,5 +1,3 @@
-[Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062002/Video.projeto.Power.Bi.zip)
-
 
 <img width="1155" height="629" alt="image" src="https://github.com/user-attachments/assets/bb5deb89-6f59-451a-a792-e8c47e058a83" />
 
@@ -146,15 +144,18 @@ Os dados mostram a quantidade de mulheres e o perfil de idade, mas não trazem r
 
 Próximos passos: cruzar com dados de renda e de consumo, e buscar a quantidade de mulheres por território.
 
-Ferramentas
+# Ferramentas
 
-Power BI Desktop | Fontes: IBGE (Censo 2022) e SIDRA
+- Power BI Desktop 
+- Excel
+- DBeaver
 
-Autora
+# Informações Autora:
 
-Betania Batista, estudante de Ciência de Dados (Univesp) LinkedIn: https://www.linkedin.com/in/betaniasb/
+Betania Batista, estudante de Ciência de Dados (Univesp) 
+🔗 LinkedIn: <https://www.linkedin.com/in/betaniasb/>
 
-Nota final
+# Nota final
 
 Mais do que apresentar números, o objetivo foi transformar dados públicos em informações que possam apoiar a tomada de decisões.
 
@@ -162,7 +163,7 @@ Sei que a análise possui limitações e que ainda há oportunidades de aprofund
 
 Este é o início de uma jornada de aprendizado, desenvolvimento e construção de novos projetos na área de Dados.
 
-Obrigada por visitar meu projeto!DME.md.txt…]()
+Obrigada por visitar meu projeto!
 
 
 <img width="1166" height="660" alt="image" src="https://github.com/user-attachments/assets/e283a9c1-c3ab-4135-9150-754d7712ea1e" />
@@ -183,9 +184,11 @@ Obrigada por visitar meu projeto!DME.md.txt…]()
 
 Vídeo do Projeto
 [Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062010/Video.projeto.Power.Bi.zip)
+
 Arquivo Power BI
 [Projeto_Be_Análise_de_Mulheres.zip](https://github.com/user-attachments/files/35060034/Projeto_Be_Analise_de_Mulheres.zip)
 
+[Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062002/Video.projeto.Power.Bi.zip)
 
 
 
