@@ -60,27 +60,24 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais
 
 **Estados com maior número de mulheres:**
 
-1º SP | 18,0 milhões
-2º MG | 8,2 milhões
-3º RJ | 6,7 milhões
-4º BA | 5,5 milhões
-5º PR | 4,5 milhões
+- 1º SP | 18,0 milhões
+- 2º MG | 8,2 milhões
+- 3º RJ | 6,7 milhões
+- 4º BA | 5,5 milhões
+- 5º PR | 4,5 milhões
 
-|**Total: 42,9 milhões**|
+**Total: 42,9 milhões**
  
-**Representa 54% do total de mulheres, São Paulo concentra 22,7%**.
+**Representa 54% do total de mulheres, São Paulo concentra 22,7%.**
 
 # Faixa etária (Percentual do Total)
 
-|19 a 39 anos: 41,9% |
+- 19 a 39 anos | 41,9% 
+- 40 a 59 anos | 35,5%
+- 60 a 79 anos | 19,0%
+- 80+          | 3,6%
 
-|40 a 59 anos: 35,5% |
-
-|60 a 79 anos: 19,0% |
-
-|80+: 3,6% |
-
-Total por regiões
+** Total por regiões **
 
 Sudeste: 34,3 milhões (43,3%)
 Nordeste: 20,9 milhões (26,4%)
