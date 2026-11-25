@@ -5,7 +5,7 @@
 
 Este projeto representa meu primeiro passo na área de Ciência de Dados e foi uma oportunidade de colocar em prática conhecimentos de tratamento de dados, análise exploratória, criação de medidas em DAX e visualização no Power BI.
 
-# Projeto Be: Análise Potencial de Público Feminino
+# 💡Projeto Be: Análise Potencial de Público Feminino
 
 📊 Dashboard em Power BI com dados do Censo 2022 (IBGE), desenvolvido como primeiro projeto do curso de Ciência de Dados (Univesp).📊
 
@@ -41,7 +41,7 @@ Tabela 17 (Censo 2022): percentual de mulheres em cada faixa etária, por territ
 - 27 Estados
 - 5.570 Municípios
 
-Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais
+Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais.
 
 ## 👩‍💻Tratamento dos dados:
 
@@ -56,7 +56,7 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais
 - Conferi os totais dos estados;
 - Separei a sigla do estado no Power BI.
 
-# 📚 Principais resultados:
+# 📚 Resultados:
 
 **Estados com maior número de mulheres:**
 
@@ -70,31 +70,44 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais
  
 **Representa 54% do total de mulheres, São Paulo concentra 22,7%.**
 
-# Faixa etária (Percentual do Total)
+#👩 Faixa etária (Percentual do Total)
 
 - 19 a 39 anos | 41,9% 
 - 40 a 59 anos | 35,5%
 - 60 a 79 anos | 19,0%
 - 80+          | 3,6%
 
-** Total por regiões **
+**Total por regiões**
 
-Sudeste: 34,3 milhões (43,3%)
-Nordeste: 20,9 milhões (26,4%)
-Sul: 11,9 milhões (15,0%)
-Centro-Oeste: 6,1 milhões (7,8%)
-Norte: 5,9 milhões (7,5%)
+- Sudeste: 34,3 milhões (43,3%)
+- Nordeste: 20,9 milhões (26,4%)
+- Sul: 11,9 milhões (15,0%)
+- Centro-Oeste: 6,1 milhões (7,8%)
+- Norte: 5,9 milhões (7,5%)
 
-Regiões com percentual por idade
+## Regiões com percentual por idade
 
 Em quantidade, o Sudeste lidera em todas as faixas etárias. Em proporção, o perfil varia:
 
-Mulheres de 19 a 39 anos têm maior proporção no Norte (50,7%), Centro-Oeste (44,8%) e Nordeste (43,9%). No total do Brasil, representam 41,9%.
-Mulheres de 40 a 59 anos têm maior proporção no Centro-Oeste (36,3%), Sudeste (35,9%) e Sul (35,3%). No total do Brasil, representam 35,5%.
+**Mulheres de 19 a 39 anos têm maior proporção**:
 
-Perfil de idade por território (Brasil)
+- Norte (50,7%),
+- Centro-Oeste (44,8%) e;
+- Nordeste (43,9%).
 
-Percentual das mulheres de cada território em cada faixa etária:
+**No total do Brasil, representam 41,9%.**
+
+**Mulheres de 40 a 59 anos têm maior proporção:**
+
+- Centro-Oeste (36,3%);
+- Sudeste (35,9%) e;
+- Sul (35,3%).
+  
+**No total do Brasil, representam 35,5%.**
+
+## Perfil de idade por território (Brasil)
+
+# Percentual das mulheres de cada território em cada faixa etária:
 
 Urbano: 19 a 39 anos 32,1% | 40 a 59 anos 27,1% | 60 a 79 anos 14,5% | 80+ 2,8%
 Rural: 19 a 39 anos 29,5% | 40 a 59 anos 25,3% | 60 a 79 anos 14,0% | 80+ 2,6%
