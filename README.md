@@ -300,10 +300,6 @@ IBGE. Censo Demográfico 2022: população residente, por sexo, idade e forma de
 ## 📹Vídeo do Projeto
 [Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062010/Video.projeto.Power.Bi.zip)
 
-## 🗂️Pasta com Arquivos do SQL e Power BI:
-[Projeto_Be_Análise_de_Mulheres.zip](https://github.com/user-attachments/files/35431967/Projeto_Be_Analise_de_Mulheres.zip)
-
-
 
 
 
