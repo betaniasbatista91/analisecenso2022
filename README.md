@@ -75,7 +75,7 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais.
 - 60 a 79 anos | 19,0%
 - 80+          | 3,6%
 
-## Quantidade e Percentual por Regiões**
+## 📈Quantidade e Percentual por Regiões
 
 - Sudeste: 34,3 milhões (43,3%)
 - Nordeste: 20,9 milhões (26,4%)
@@ -83,7 +83,7 @@ Total: 79.229.798 (79,2 milhões) mulheres de 19 anos ou mais.
 - Centro-Oeste: 6,1 milhões (7,8%)
 - Norte: 5,9 milhões (7,5%)
 
-## Regiões com percentual por idade
+## 🔎Regiões com percentual por idade
 
 Em quantidade, o Sudeste lidera em todas as faixas etárias. Em proporção, o perfil varia:
 
@@ -103,9 +103,9 @@ Em quantidade, o Sudeste lidera em todas as faixas etárias. Em proporção, o p
   
 *No total do Brasil, representam 35,5%.*
 
-# Perfil de Idade por Território
+# Perfil por Território
 ---
-## Percentual das mulheres de cada território em cada faixa etária:
+## Percentual de cada território por faixa etária:
 
 **Urbano:** 
 
@@ -202,8 +202,13 @@ Esses percentuais consideram todas as mulheres do território, inclusive as de 0
 
 ## 🌄Territórios Indígena e Quilombola
 
-19 a 39 anos: as indígenas têm maior percentual no Sul (36,3%) e no Sudeste (34,6%). As quilombolas, no Norte (33,1%) e no Nordeste (32,0%).
-40 a 59 anos: as indígenas se destacam no Nordeste (18,2%), Sul (15,8%) e Sudeste (14,8%). As quilombolas, no Sul (26,9%), Sudeste (24,5%) e Centro-Oeste (23,2%).
+**Faixa Etária 19 a 39 anos**
+- Indígenas têm maior percentual no Sul (36,3%) e no Sudeste (34,6%).
+- As quilombolas, no Norte (33,1%) e no Nordeste (32,0%).
+
+**Faixa Etária 40 a 59 anos**
+- Indígenas se destacam no Nordeste (18,2%), Sul (15,8%) e Sudeste (14,8%).
+- As quilombolas, no Sul (26,9%), Sudeste (24,5%) e Centro-Oeste (23,2%).
 
 # 💡Conclusão
 
@@ -233,8 +238,11 @@ Próximos passos: cruzar com dados de renda e de consumo, e buscar a quantidade 
 ## Informações Autora:
 
 Betania Batista,
+
 Estudante de Ciência de Dados
+
 UNIVESP (Universidade Virtual do Estado de São Paulo)
+
 🔗 LinkedIn: <https://www.linkedin.com/in/betaniasb/>
 
 ## Nota final
@@ -247,32 +255,36 @@ Este é o início de uma jornada de aprendizado, desenvolvimento e construção 
 
 Obrigada por visitar meu projeto!
 
-##🔗 Imagens, Tabelas e Outros:
+# 🔗Imagens, Tabelas e Outros:
 
 <img width="1166" height="660" alt="image" src="https://github.com/user-attachments/assets/e283a9c1-c3ab-4135-9150-754d7712ea1e" />
+
 <img width="6150" height="3525" alt="Projeto1 (2)" src="https://github.com/user-attachments/assets/be332ed7-6774-449a-bc0d-4bbc5b24f483" />
+
 <img width="1164" height="656" alt="image" src="https://github.com/user-attachments/assets/e45bf4bb-7a25-49a4-8054-fd765cf3fadf" />
+
 <img width="12150" height="6900" alt="Projeto1 (4)" src="https://github.com/user-attachments/assets/b3c6414d-b8fd-4ad8-a6bf-94c090919010" />
+
 <img width="6150" height="3525" alt="Projeto1 (5)" src="https://github.com/user-attachments/assets/dcf5d5d1-1241-4f40-9d91-8856620c25e9" />
+
 <img width="12150" height="6900" alt="Projeto1 (6)" src="https://github.com/user-attachments/assets/3c269be2-d12f-4e88-9321-3fa5b3653291" />
+
 <img width="6150" height="3525" alt="Projeto1 (7)" src="https://github.com/user-attachments/assets/3f3589b6-d6df-4d76-93f4-305469b03151" />
+
 <img width="6150" height="3525" alt="Projeto1 (8)" src="https://github.com/user-attachments/assets/9b479742-45b1-42a8-a032-00a02741a6a9" />
+
 <img width="6150" height="3525" alt="Projeto1 (9)" src="https://github.com/user-attachments/assets/7f937a71-536e-4cb0-98e4-7f21d7f986d5" />
+
 <img width="1163" height="658" alt="image" src="https://github.com/user-attachments/assets/668f47a2-42ed-41c7-8322-8543b504a91f" />
 
 [Tabela_17_Idade_e_caracteristicas_do_territorio.xlsx](https://github.com/user-attachments/files/35058825/Tabela_17_Idade_e_caracteristicas_do_territorio.xlsx)
 [Tabela_9514_BE.xlsx](https://github.com/user-attachments/files/35058837/Tabela_9514_BE.xlsx)
 
-[README.md.txt](https://github.com/user-attachments/files/35059002/README.md.txt)
-
-Vídeo do Projeto
+## Vídeo do Projeto
 [Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062010/Video.projeto.Power.Bi.zip)
 
-Arquivo Power BI
+## Arquivo Power BI
 [Projeto_Be_Análise_de_Mulheres.zip](https://github.com/user-attachments/files/35060034/Projeto_Be_Analise_de_Mulheres.zip)
-
-[Vídeo projeto Power Bi.zip](https://github.com/user-attachments/files/35062002/Video.projeto.Power.Bi.zip)
-
 
 
 
