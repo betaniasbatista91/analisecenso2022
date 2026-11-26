@@ -233,7 +233,7 @@ Próximos passos: cruzar com dados de renda e de consumo, e buscar a quantidade 
 
 As mesmas perguntas de negócio também foram respondidas em SQL, com o DBeaver e um banco SQLite.
 
-📄 Script com as perguntas P1 a P8: <>
+📄 Script com as perguntas P1 a P8;
 🗂️ Dados usados: dados/mulheres.csv (Tabela 9514) e dados/perfil_territorio.csv (Tabela 17, Brasil)
 🎥 Vídeo executando as consultas: video/video_sql_projeto.mp4
 
@@ -247,7 +247,7 @@ Os resultados em SQL conferem com os do dashboard (por exemplo: 79.229.798 mulhe
 - Excel
 - DBeaver (SQL com SQLite)
 
-## Informações Autora:
+### Informações Autora:
 
 Betania Batista,
 
@@ -255,7 +255,7 @@ Estudante de Ciência de Dados
 
 UNIVESP (Universidade Virtual do Estado de São Paulo)
 
-🔗 LinkedIn: <https://www.linkedin.com/in/betaniasb/>
+🔗 [LinkedIn Betania Batista](<https://www.linkedin.com/in/betaniasb/>)
 
 ## 📝Nota final
 
