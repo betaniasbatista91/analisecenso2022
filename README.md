@@ -1,3 +1,23 @@
+<div align="center">
+  <!-- Banner animado com letras em azul -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Ol%C3%A1!+Eu+sou+a+Betania+Batista+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+de+Dados+-+UNIVESP;Foco+em+SQL%2C+Power+BI+e+An%C3%A1lise+de+Dados" alt="Banner Betania Batista" />
+  </a>
+
+  <br/>
+
+  <!-- Sua foto de perfil do GitHub -->
+  <img src="https://github.com/betaniasbatista91.png" width="120" style="border-radius: 50%;" alt="Foto de Betania Batista" />
+
+  <br/><br/>
+
+  <!-- Botão clicável para o LinkedIn -->
+  <a href="https://www.linkedin.com/in/betaniasb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Betania" />
+  </a>
+</div>
+
+---
 
 <img width="1155" height="629" alt="image" src="https://github.com/user-attachments/assets/bb5deb89-6f59-451a-a792-e8c47e058a83" />
 
